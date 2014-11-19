@@ -1,4 +1,4 @@
-Personal Information
+个人信息
 ====================
 
 技能
@@ -17,6 +17,8 @@ Personal Information
  - Don't repeat yourself
 
  - 一分耕耘， 一分收获
+ 
+ - 稳中求变
 
 
 价值观

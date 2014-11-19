@@ -6,16 +6,16 @@
 Welcome to zwidny's resume!
 =========================================
 
-**Contents**:
+**内容**:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   Personal Information <docs/personal_info>
+   个人信息 <docs/personal_info>
 
-   Project Experience <docs/project_experience>
+   项目经验 <docs/project_experience>
 
-   Addition <docs/addition>
+   附加说明 <docs/addition>
 
 
 
